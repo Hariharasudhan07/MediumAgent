@@ -33,7 +33,7 @@ pip install -r requirements.txt
    - Get your **Google Gemini API Key** from [[Google AI](https://ai.google.dev/)](https://ai.google.dev/).  
    - Create a `.env` file and add the key:  
      ```
-     GEMINI_API_KEY=your_api_key_here
+     geminiapi=your_api_key_here
 
 ## 5.Running the Application
 
