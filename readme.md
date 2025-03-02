@@ -49,13 +49,28 @@ This will launch the web application in your browser.
  ├️ 💜 webscrapagent.py   # Scrapes article content from URLs
 ```
 
+
 ## Configuration
-- Ensure `.env` contains necessary API keys if required.
+- Obtain an API key from [Google Gemini](https://ai.google.dev/) and add it to your `.env` file.
+- Ensure `.env.example` is committed instead of `.env` to avoid exposing sensitive API keys.
+- Ensure `.env.example` is committed instead of `.env` to avoid exposing sensitive API keys.
 - Modify `googlesearchagent.py` and `webscrapagent.py` as needed for different search or scraping functionalities.
+
+
 
 ## Contributing
 Feel free to fork and contribute to this project.
 
 ## License
 This project is licensed under the MIT License.
+
+
+
+
+
+
+
+
+
+
 
