@@ -1,0 +1,13 @@
+agno
+numpy
+faiss-cpu
+sentence-transformers
+psycopg2-binary
+pgvector
+fastapi
+uvicorn
+python-dotenv
+openai
+google-search-results
+fpdf
+python-docx
